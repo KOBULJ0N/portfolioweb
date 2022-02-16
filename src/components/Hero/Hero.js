@@ -16,10 +16,7 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        I am a 20 years old React Js Developer with hands-on experience in
-        creating interactive user interfaces , including performance and
-        optimization. I like new challenges that make me want to learn more and
-        more about this domain and improve my skills every day.
+        I am a 20 years old React Js Developer who is ready to learn every single thing to be expert in this profession
       </SectionText>
       <Button
         onClick={() =>
